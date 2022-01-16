@@ -1,3 +1,140 @@
-h1{
-    color: red;
+body{
+    font-family: 'Outfit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+margin: 0;
+}
+#main{
+    align-items: center;
+    margin: 10% 10%;
+}
+.mission-font-color{
+    color: tomato;
+}
+
+.left-border{
+    border-left: 2px solid;
+    border-color: red;
+    padding-left: 5px;
+    
+}
+.button-color{
+   
+    background-color: violet;
+    border-radius: 5px;
+    color: yellow;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 700;
+}
+.center{
+    text-align: center; 
+}
+
+.section-1{
+    display: flex;
+    margin-bottom: 10%;
+    align-items: center;
+}
+.sec1-div-1{
+    width: 50%;
+    padding-left: 5%;
+    margin: 5px 5px;
+ 
+}
+
+.sec1-div-2 img{
+
+    width: 70%; 
+    margin-left: 20%;
+    padding-right: 10px;} 
+
+.section-2{
+    display: flex;
+    margin-bottom: 10%;
+  
+}
+.sec-2-div-1{
+    width: 50%;
+    padding: 10px 10px;
+    background-color: rgb(119, 233, 199);
+    border-radius: 10%;
+    margin: 20px 20px;
+   
+}
+.sec-2-div-1 img{
+    width: 50%;
+    position: left;
+}
+.sec-2-div-2{
+    width: 50%;
+    padding: 10px 10px;
+    background-color: rgb(142, 206, 226);
+    border-radius: 10%;
+    margin: 20px 20px;
+   
+}
+.sec-2-div-2 img{
+    width: 50%;
+    position: left;
+}
+.sec-2-div-3{
+    width: 50%;
+    padding: 10px 10px;
+    background-color: rgb(241, 235, 174);
+    border-radius: 10%;
+    margin: 20px 20px;
+   
+}
+.sec-2-div-3 img{
+    width: 50%;
+    position: left;
+}
+.section-3{
+    display: flex;
+    margin-bottom: 10%;
+   
+}
+.section-3{
+    background-image: url(images\shapes\shape-1.png);
+background-repeat: no-repeat;
+
+}
+
+.sec-3-div-1 img{
+    width: 80%;
+    margin-left: 20%;
+    padding-right: 10px;}
+
+ .sec-3-div-2{
+    width: 100%;
+    margin-left: 10%;
+    padding-right: 10px;
+} 
+.section-4{
+    display: flex;
+    margin-bottom: 10%;
+    
+}
+.sec-4-div-1{
+    width: 50%;
+    padding-left: 5%;
+    margin: 5px 5px;
+}
+
+.sec-4-div-1 img{
+    width: 80%;
+   
+} 
+.last-footer{
+    background-color: black;
+    font-weight: 700 ;
+    color: white;
+    text-align: center;
+    margin-bottom: 0%;
+    padding: 5PX;
+
+}
+.last-color {
+    color: tomato;
 }
