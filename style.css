@@ -4,10 +4,7 @@ font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif;
 margin: 0;
 }
-.main{
-    align-items: center;
-    margin: 8% 8%;
-}
+
 .mission-font-color{
     color: tomato;
 }
